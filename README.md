@@ -1,3 +1,8 @@
+## Moved to GNOME Gitlab: https://gitlab.gnome.org/jsparber/teleport
+**This is an outdated version of the repo. We want to eventually mirror the Gitlab repo here, but there's no easy way to do that yet in Gitlab CE. For now, just head over to [our GNOME Gitlab repo](https://gitlab.gnome.org/jsparber/teleport).**
+
+---
+
 # Teleport
 Teleport is a native GTK3 app to effortlessly share files on the local network.
 
